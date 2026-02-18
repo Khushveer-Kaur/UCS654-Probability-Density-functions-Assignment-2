@@ -26,7 +26,7 @@ r = 102303327
 
 ### Transformation Parameters
 
-a_r = 0.5  
+a_r = 0.0  
 b_r = 0.8999999999999999  
 
 These parameters introduce a nonlinear perturbation to the original data. As a result, the transformed variable has an unknown and analytically intractable probability distribution.
